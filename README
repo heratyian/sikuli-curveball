@@ -1,1 +1,4 @@
 curve-ball readme
+
+set "BROWSER" constant equal to preferred browser
+default set to Google Chrome for Mac OS X
